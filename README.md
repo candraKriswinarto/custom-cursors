@@ -1,4 +1,4 @@
-![Project Preview](./ss.jpg)
+![Project Preview](./ss.JPG)
 
 ## License
 
